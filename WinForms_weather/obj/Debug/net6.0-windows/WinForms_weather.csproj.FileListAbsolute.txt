@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\bin\Debug\net6.0-windows\WinForms_weather.exe
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\bin\Debug\net6.0-windows\WinForms_weather.deps.json
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\bin\Debug\net6.0-windows\WinForms_weather.runtimeconfig.json
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\bin\Debug\net6.0-windows\WinForms_weather.dll
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\bin\Debug\net6.0-windows\WinForms_weather.pdb
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\WinForms_weather.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\WinForms_weather.Form1.resources
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\WinForms_weather.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\WinForms_weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\WinForms_weather.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\WinForms_weather.AssemblyInfo.cs
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\WinForms_weather.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\WinForms_weather.dll
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\refint\WinForms_weather.dll
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\WinForms_weather.pdb
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\WinForms_weather.genruntimeconfig.cache
+C:\Users\user\source\repos\Labs_07_csharp\WinForms_weather\obj\Debug\net6.0-windows\ref\WinForms_weather.dll
